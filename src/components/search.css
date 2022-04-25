@@ -1,0 +1,35 @@
+.search-box{
+    display:flex;
+    justify-content: flex-end;
+    margin-left: 14px;
+    
+}
+.text{
+    border: none;
+    color: black;
+    font-style: italic;
+    margin: 7px;
+    padding: 5px;
+    width: 15%;
+    border-radius: 3px;
+}
+.btn{
+    border: none;
+    background-color: antiquewhite;
+    color: black;
+    padding: 5px;
+    margin: 6px;
+    height: 30px;
+    width: 78px;
+    border-radius: 3px;
+
+}
+input:hover{
+    border: 3px solid orange;
+    background-color: lightblue;
+}
+button:hover{
+    background-color: red;
+    font-style:italic;
+
+}

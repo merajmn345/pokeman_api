@@ -1,0 +1,16 @@
+.top{
+    display: flex;
+    text-align: center;
+    height: 90px;
+    width: 100%;
+    padding-top: 15px;
+    background-color: grey;
+    
+}
+
+body{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
